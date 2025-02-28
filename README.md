@@ -14,7 +14,7 @@
 5. 打赏奖励作者~
 
 ## web端正式发布！
-绕过拆单工具web端[https://jlcgo.zhangmonday.top](https://jlcgo.zhangmonday.top)。
+绕过拆单工具web端[https://jlcgo.zhangmonday.top](https://jlcgo.zhangmonday.top)
 
 相比windows端，web版本可以兼容更多系统，有网有浏览器就能用。
 web端已经成功实现与windows端完全相同的功能（批量重构除外），欢迎体验！
