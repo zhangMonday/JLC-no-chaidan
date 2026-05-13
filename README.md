@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 最新版本
-请访问下方链接使用最新的在线版本！：
+请访问下方链接使用最新的在线版本！(你在想的功能全都有，感谢各位群友大佬的付出)：
 👉 **[https://jlcgo.zhangmonday.top](https://jlcgo.zhangmonday.top)**
 
 ---
